@@ -1,6 +1,6 @@
 def bot(bot_name, birth_year):
     print('Hello! My name is ' + bot_name + '.')
-    print('I was born in ' + birth_year + '.')
+    print('I was made in ' + birth_year + '.')
 
 
 def remind_name():
@@ -48,7 +48,7 @@ def end():
     print('Congratulations, have a nice day!')
 
 
-bot('Sarvesh Chaudhary', '2000')  # change it as you need
+bot('Alexa', '2000')  # change it as you need
 remind_name()
 guess_age()
 count()
